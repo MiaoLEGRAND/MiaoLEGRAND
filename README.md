@@ -1,18 +1,18 @@
 ## Hi there 👋 I'm Miao LEGRAND, 💻 a Data Analyst 
 
-- 🛠 Tech Stack
+#### 🛠 Tech Stack
 
 Here are some of the technologies I've worked with:
 
-  - Programming Languages: Python, SQL, Shell
-  - Databases: MySQL Server, PostgreSQL, 
-  - Cloud Platforms: GCP (Google Cloud Platform)
-  - Cloud Data Warehousing: Google Big Query
-  - Version Control: Git, Github
-  - Documentation: Confluence
-  - Project Management: Jira
-  - Data Visualization/BI Tools: Microsoft Power BI, Tableau, Metabase, Omni
+  - **Programming Languages**: Python, SQL, Shell
+  - **Databases**: MySQL Server, PostgreSQL, 
+  - **Cloud Platforms**: GCP (Google Cloud Platform)
+  - **Cloud Data Warehousing**: Google Big Query
+  - **Version Control**: Git, Github
+  - **Documentation**: Confluence
+  - **Project Management**: Jira
+  - **Data Visualization/BI Tools**: Microsoft Power BI, Tableau, Metabase, Omni
 
-- 💬 Ask me about anything, I am happy to help
+#### 💬 Ask me about anything, I am happy to help
 
-- 📫 How to reach me: miaolegrand@gmail.com
+#### 📫 How to reach me: miaolegrand@gmail.com
