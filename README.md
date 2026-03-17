@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm Miao LEGRAND, 💻 a Data Analyst 
 
 <!--
 **MLDeliv/MLDeliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠 Tech Stack
+
+Here are some of the technologies I've worked with:
+
+Programming Languages: Python, SQL, Shell
+Databases: MySQL Server, PostgreSQL, 
+Cloud Platforms: GCP (Google Cloud Platform)
+Cloud Data Warehousing: Google Big Query
+Version Control: Git, Github
+Documentation: Confluence
+Project Management: Jira
+Data Visualization/BI Tools: Microsoft Power BI, Tableau, Metabase, Omni
+- 💬 Ask me about anything, I am happy to help
+
+- 📫 How to reach me: miaolegrand@gmail.com
